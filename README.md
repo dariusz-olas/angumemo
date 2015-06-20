@@ -1,2 +1,2 @@
 # angumemo
-AnguMEMO - application that help you repeat knowledge as long as you get it to LTM (long-term memory)
+AnguMEMO - thw application helps you repeat knowledge until you get it to LTM (long-term memory)
